@@ -1,0 +1,1 @@
+{"version": "0.8.4", "description": "Graphical Debugger for Sublime Text ", "dependencies": [], "url": "https://github.com/wvlia5/SublimeDebugger", "sublime_text": ">=3000", "platforms": ["*"]}

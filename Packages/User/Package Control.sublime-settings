@@ -5,8 +5,32 @@
 	],
 	"installed_packages":
 	[
+		"AdvancedNewFile",
+		"Anaconda",
+		"AutoFileName",
+		"AutoPEP8",
 		"Boxy Theme",
+		"BracketHighlighter",
 		"C++ Snippets",
-		"Theme - Spacegray"
+		"ConvertToUTF8",
+		"FileDiffs",
+		"FileIcons",
+		"Git",
+		"Jedi - Python autocompletion",
+		"Package Control",
+		"PackageResourceViewer",
+		"Pretty JSON",
+		"Python 3",
+		"Python Breakpoints",
+		"Python Checker",
+		"Python Debugger",
+		"Python Improved",
+		"Python PEP8 Autoformat",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeREPL",
+		"Theme - Spacegray",
+		"WakaTime"
 	]
 }

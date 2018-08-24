@@ -1,0 +1,28 @@
+[
+    {
+        "id": "tools",
+        "children":
+        [{
+            "caption": "Debugger",
+            "mnemonic": "D",
+            "id": "Debugger",
+            "children":
+            [
+                {"caption": "Start Debugging"   , "command": "debug"               },
+                {"caption": "Toggle Watcher"    , "command": "toggle_watcher"      },
+                {"caption": "Toggle Breakpoint" , "command": "toggle_breakpoint"   },
+                {"caption": "Reeval Expressions", "command": "refresh_expressions" },
+                {
+                    "caption": "Set Language",
+                    "children":
+                    [
+                        {"caption": "Python2"                   , "command": "language","args":{"lang":"python2" },"checkbox":true},
+                        {"caption": "Python3"                   , "command": "language","args":{"lang":"python3" },"checkbox":true},
+                        {"caption": "Python3 (Sublime built-in)", "command": "language","args":{"lang":"python3s"},"checkbox":true}
+                    ]
+                },
+                
+            ]
+        }]
+    }
+]
